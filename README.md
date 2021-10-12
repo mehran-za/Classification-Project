@@ -13,13 +13,13 @@ The dataset includes following fields:
 
 Then we use 
 
-K Nearest Neighbor(KNN)
-Decision Tree
-Random Forest
-Support Vector Machine
-Logistic Regression
+K Nearest Neighbor(KNN)-
+Decision Tree-
+Random Forest-
+Support Vector Machine-
+Logistic Regression-
 
 to build our models and finally report the accuracy of the built model using different evaluation metrics:
-Jaccard
-F1-score	
+Jaccard-
+F1-score-
 LogLoss 
